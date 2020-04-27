@@ -1,2 +1,2 @@
 # dihu
-demo for MHCID
+css_demo.html
