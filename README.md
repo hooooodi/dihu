@@ -1,2 +1,2 @@
 # dihu
-css_demo.html
+demo-for-mhcid
